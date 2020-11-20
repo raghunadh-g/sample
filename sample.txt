@@ -1,0 +1,5 @@
+Create Simple Web application consisting of 4 pages registration, login, catalog and cart page.  Use various bootstrap classes for better presentation of the web application.
+
+
+
+Hello world
